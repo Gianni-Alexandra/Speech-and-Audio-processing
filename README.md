@@ -1,4 +1,4 @@
-# Speech-and-Audio-processing
+## ECE443 Speech-and-Audio-processing
 This repository includes the assignments and the final project in Speech and Audio processing course
 
 #### Assignment 1: Spectrogram and Time-Domain Analysis of speech
